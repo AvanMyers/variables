@@ -1,0 +1,3 @@
+D:\Visual Studio\Project\variables\variables\obj\Debug\variables.csproj.AssemblyReference.cache
+D:\Visual Studio\Project\variables\variables\obj\Debug\variables.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Project\variables\variables\obj\Debug\variables.csproj.CoreCompileInputs.cache
